@@ -1,0 +1,6 @@
+{
+  "name": "RoktoBondhon",
+  "description": "A modern, secure blood donation platform for Bangladesh connecting voluntary donors with patients across all 8 divisions and 64 districts with strict privacy protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
